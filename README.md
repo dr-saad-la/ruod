@@ -58,7 +58,7 @@ Contributions will be welcome once the initial version of the library is release
 
 ## License
 
-RuOD will be licensed under the MIT License, making it open and accessible for both personal and commercial use.
+RuOD will be licensed under the MIT License, making it open and accessible for both personal and commercial use. See the [LICENSE](LICENSE) file for more details. 
 
 ## To Do
 
