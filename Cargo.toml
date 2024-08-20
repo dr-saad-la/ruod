@@ -5,9 +5,11 @@ edition = "2021"
 
 [dependencies]
 array = "0.0.1"
+linfa = "0.7.0"
 ndarray = "0.16.1"
 ndarray-linalg = "0.16.0"
 pyo3 = "0.22.2"
+serde = "1.0.208"
 
 [lib]
 crate-type = ["cdylib"]
